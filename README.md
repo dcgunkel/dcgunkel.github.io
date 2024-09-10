@@ -1,6 +1,8 @@
 # Dieter Gunkel
-UCLA Department of Classics and Program in Indo-European Studies  
+UCLA Department of Classics  
+Program in Indo-European Studies  
 dgunkel@humnet.ucla.edu  
+
 ## Articles and book chapters
 2024\. Sandell, Ryan P. and Dieter Gunkel. “On the representation and realization of the ancient Greek acute: Evidence from tone-tune mappings in ancient Greek music.” *Journal of Greek Linguistics* 24: 78–183.  
 
