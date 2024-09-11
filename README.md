@@ -4,11 +4,11 @@ Program in Indo-European Studies
 dgunkel@humnet.ucla.edu  
 
 ## Articles and book chapters
-2024\. Sandell, Ryan P. and Dieter Gunkel. “On the representation and realization of the ancient Greek acute: Evidence from tone-tune mappings in ancient Greek music.” *Journal of Greek Linguistics* 24: 78–183.  
+2024\. Sandell, Ryan P. and Dieter Gunkel. “[On the representation and realization of the ancient Greek acute: Evidence from tone-tune mappings in ancient Greek music](https://brill.com/downloadpdf/view/journals/jgl/24/1/article-p78_4.pdf).” *Journal of Greek Linguistics* 24: 78–183.  
 
-2023\. “Musical evidence for low boundary tones in ancient Greek.” *Greek and Roman Musical Studies* 12: 1–54.  
+2023\. “[Musical evidence for low boundary tones in ancient Greek](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1045&context=classicalstudies-faculty-publications).” *Greek and Roman Musical Studies* 12: 1–54.  
 
-2022\. Gunkel, Dieter and Kevin M. Ryan. “Vedic Sanskrit vocatives in -an: The case for restoring two endings.” In *Ha! Linguistic Studies in Honor of Mark R. Hale*, ed. Laura Grestenberger, Charles Reiss, Hannes A. Fellner, and Gabriel Z. Pantillon, 117–134. Wiesbaden: Reichert.  
+2022\. Gunkel, Dieter and Kevin M. Ryan. “[Vedic Sanskrit vocatives in *-an*: The case for restoring two endings](https://ucla.box.com/s/0vdt9xjr4l671rjjtd2ycxceryynggcv).” In *Ha! Linguistic Studies in Honor of Mark R. Hale*, ed. Laura Grestenberger, Charles Reiss, Hannes A. Fellner, and Gabriel Z. Pantillon, 117–134. Wiesbaden: Reichert.  
 
 2022\. “The first person singular of the athematic middle optative in Vedic and Indo-Iranian.” *Journal of the American Oriental Society* 142.2:251–266.  
 
