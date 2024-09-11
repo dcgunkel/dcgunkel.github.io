@@ -1,6 +1,8 @@
 # Dieter Gunkel
 ## About
-I'm a professor with join appointments in UCLA's [Department of Classics](https://classics.ucla.edu) and [Program in Indo-European Studies](https://pies.ucla.edu). After receiving my PhD at UCLA in 2010, I held positions in the [Lehstuhl für Historische und Indogermanische Sprachwissenschaft](https://www.indogermanistik.uni-muenchen.de/index.html) at the University of Munich \(2010–2017\) as well as in the [Department of Classical Studies](https://classics.richmond.edu) and the [Linguistics Program](https://linguistics.richmond.edu) at the University of Richmond \(2017–2024\).
+I'm a professor with join appointments in UCLA's [Department of Classics](https://classics.ucla.edu) and [Program in Indo-European Studies](https://pies.ucla.edu). After receiving my PhD at UCLA in 2010, I held positions in the [Lehstuhl für Historische und Indogermanische Sprachwissenschaft](https://www.indogermanistik.uni-muenchen.de/index.html) at the University of Munich \(2010–2017\) as well as in the [Department of Classical Studies](https://classics.richmond.edu) and the [Linguistics Program](https://linguistics.richmond.edu) at the University of Richmond \(2017–2024\).  
+
+I specialize in the historical-comparative linguistics of the older Indo-European languages, especially ancient Greek and Latin. My research also touches on poetic meter and versification in several Indo-European traditions, including Ved
 dgunkel@humnet.ucla.edu 
 
 ## Articles and book chapters
