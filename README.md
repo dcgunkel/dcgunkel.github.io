@@ -30,25 +30,20 @@ Feel free to contact me [here](dgunkel@humnet.ucla.edu).
 
 2011\. Gunkel, Dieter and Kevin M. Ryan. “Hiatus avoidance and metrification in the Rigveda.” In *Proceedings of the 22nd Annual UCLA Indo-European Conference*, ed. Stephanie W. Jamison, H. Craig Melchert, and Brent Vine, 53–68. Bremen: Hempen. [\[download\]](https://ucla.box.com/s/g3e85pj0gtj7bbmkbtp817xgx6di511c)  
 
-[## Encyclopedia entries]: #  
-[2014\. “[Accentuation](https://ucla.box.com/s/srtkbq4zmuok2lz3vuyokwvl29314p00).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 1, *A–F*, ed. Georgios K. Giannakis et al., 7–12. Leiden: Brill.]: #
+## Encyclopedia entries
+2014\. “[Accentuation](https://ucla.box.com/s/srtkbq4zmuok2lz3vuyokwvl29314p00).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 1, *A–F*, ed. Georgios K. Giannakis et al., 7–12. Leiden: Brill.  
 
-[2014\. “[Law of Limitation](https://ucla.box.com/s/abq2yi27lzv8pjtfv68miw7cltaat46w).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 2, *G–O*, ed. Georgios K. Giannakis et al., 323–325. Leiden: Brill.]: #  
+2014\. “[Law of Limitation](https://ucla.box.com/s/abq2yi27lzv8pjtfv68miw7cltaat46w).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 2, *G–O*, ed. Georgios K. Giannakis et al., 323–325. Leiden: Brill.  
 
-[2014\. “[Sotera Rule](https://ucla.box.com/s/tyaftkl4u5m54kl2c0sv22421oup1aup).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 296–297. Leiden: Brill.]: #  
+2014\. “[Sotera Rule](https://ucla.box.com/s/tyaftkl4u5m54kl2c0sv22421oup1aup).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 296–297. Leiden: Brill.  
 
-[2014\. “[Wheeler’s Law](https://ucla.box.com/s/rhjtjlspctbb1yrfofxbbf4bsose6ykr).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 515–516. Leiden: Brill.]: #  
+2014\. “[Wheeler’s Law](https://ucla.box.com/s/rhjtjlspctbb1yrfofxbbf4bsose6ykr).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 515–516. Leiden: Brill.  
 
 ## Handouts and slides from presentations
-2024 \[August 22\]\. Gunkel, Dieter and Kevin M. Ryan. “Tonal textsetting in ancient Greek vocal music: Revisiting the grave.” 57th Annual Meeting of the Societas Linguistica Europaea, Helsinki.  
+2024 \[March 22\]\. “Discontinuous noun phrases in Vedic prose.” 234th Meeting of the American Oriental Society, Chicago. [\[download\]](https://ucla.box.com/s/uwd3z4w1cqvu2x9go09z9wx5rl9gts5p)  
 
-2024 \[March 22\]\. “Discontinuous noun phrases in Vedic prose.” 234th Meeting of the American Oriental Society, Chicago.  
+2024 \[March 19\]\. “The syntactic expression of polarity focus in Vedic prose.” Linguistics Research Seminars, Trinity College, Dublin. [\[download\]](https://ucla.box.com/s/umu2z6sfp0nbjxkxezr04bfaafvbl1vb)  
 
-2024 \[March 19\]\. “The syntactic expression of polarity focus in Vedic prose.” Linguistics Research Seminars, Trinity College, Dublin.  
+2017 \[October 21\]\. “On ‘accent retraction’ in Greek and Vedic vocatives.” Cornell workshop on Greek linguistics, Cornell University. [\[download\]](https://ucla.box.com/s/afv4p6oiyyaqt5digd2nq0ol6m1gtebr)  
 
-2023 \[April 26\]\. “Tocharian metrics.” Indo-European Meters (IES 280A), University of California, Los Angeles.  
-
-2017 \[October 21\]\. “On ‘accent retraction’ in Greek and Vedic vocatives.” Cornell workshop on Greek linguistics, Cornell University.  
-
-2015 \[June 24\]\. Gunkel, Dieter and Kevin M. Ryan. “Investigating Rigvedic word order in metrically neutral contexts.” Institut für Sprachwissenschaft, University of Vienna.  
-
+2015 \[June 24\]\. Gunkel, Dieter and Kevin M. Ryan. “Investigating Rigvedic word order in metrically neutral contexts.” Institut für Sprachwissenschaft, University of Vienna. [\[download\]](https://ucla.box.com/s/oquj169qlg1lpzr0svz6zlrx34ftmtuc)  
