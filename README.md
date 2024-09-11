@@ -1,5 +1,5 @@
 # Dieter Gunkel
-dgunkel@humnet.ucla.edu  
+
 I'm an academic with joint appointments in UCLA's [Department of Classics](https://classics.ucla.edu) and [Program in Indo-European Studies](https://pies.ucla.edu) \(PIES\). I received my PhD from PIES in 2010, then held positions in the [Lehstuhl für Historische und Indogermanische Sprachwissenschaft](https://www.indogermanistik.uni-muenchen.de/index.html) at the University of Munich \(2010–2017\) and in the [Department of Classical Studies](https://classics.richmond.edu) and the [Linguistics Program](https://linguistics.richmond.edu) at the University of Richmond \(2017–2024\) before joining the faculty at UCLA in 2024. At various points along the way, I studied and taught at the [Latin/Greek Institute](https://www.gc.cuny.edu/latin-greek-institute) in New York and in the [Department of Linguistics](https://linguistik.univie.ac.at) at the University of Vienna.  
 
 I specialize in the historical-comparative grammar of the older Indo-European languages, including Latin and ancient Greek. I am also interested in poetic meter, versification, and vocal music in several Indo-European traditions. You can download a selection of my publications and presentations below. For a fuller list, see my [CV](https://ucla.box.com/s/0bqk16c5wo22mqr1fe2fx2anu5shmcp8).  
