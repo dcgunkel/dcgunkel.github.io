@@ -1,8 +1,8 @@
 # Dieter Gunkel
 ## About
-I'm a professor with join appointments in UCLA's [Department of Classics](https://classics.ucla.edu) and [Program in Indo-European Studies](https://pies.ucla.edu) \(PIES\). I received my PhD from PIES in 2010, then held positions in the [Lehstuhl für Historische und Indogermanische Sprachwissenschaft](https://www.indogermanistik.uni-muenchen.de/index.html) at the University of Munich \(2010–2017\) and in the [Department of Classical Studies](https://classics.richmond.edu) and the [Linguistics Program](https://linguistics.richmond.edu) at the University of Richmond \(2017–2024\) before joining the faculty at UCLA in 2024. At various points along the way, I studied and taught at the [Latin\/Greek Institute](https://www.gc.cuny.edu/latin-greek-institute) and in the [Department of Linguistics](https://linguistik.univie.ac.at) at the University of Vienna.  
+I'm an academic with joint appointments in UCLA's [Department of Classics](https://classics.ucla.edu) and [Program in Indo-European Studies](https://pies.ucla.edu) \(PIES\). I received my PhD from PIES in 2010, then held positions in the [Lehstuhl für Historische und Indogermanische Sprachwissenschaft](https://www.indogermanistik.uni-muenchen.de/index.html) at the University of Munich \(2010–2017\) and in the [Department of Classical Studies](https://classics.richmond.edu) and the [Linguistics Program](https://linguistics.richmond.edu) at the University of Richmond \(2017–2024\) before joining the faculty at UCLA in 2024. At various points along the way, I studied and taught at the [Latin\/Greek Institute](https://www.gc.cuny.edu/latin-greek-institute) and in the [Department of Linguistics](https://linguistik.univie.ac.at) at the University of Vienna.  
 
-I specialize in the historical-comparative grammar of the older Indo-European languages, especially ancient Greek and Latin. My research also touches on poetic meter, versification, and vocal music in several Indo-European traditions. You can download a selection of my publications and presentations below. Feel free to contact me [here](dgunkel@humnet.ucla.edu).  
+I specialize in the historical-comparative grammar of the older Indo-European languages, including Latin and ancient Greek. I am also interested in poetic meter, versification, and vocal music in several Indo-European traditions. You can download a selection of my publications and presentations below. For a fuller list, see my [CV](). Feel free to contact me [here](dgunkel@humnet.ucla.edu).  
 
 ## Articles and book chapters
 2024\. Sandell, Ryan P. and Dieter Gunkel. “On the representation and realization of the ancient Greek acute: Evidence from tone-tune mappings in ancient Greek music.” *Journal of Greek Linguistics* 24:78–183 [\[download\]](https://brill.com/downloadpdf/view/journals/jgl/24/1/article-p78_4.pdf)  
@@ -27,13 +27,25 @@ I specialize in the historical-comparative grammar of the older Indo-European la
 
 2011\. Gunkel, Dieter and Kevin M. Ryan. “Hiatus avoidance and metrification in the Rigveda.” In *Proceedings of the 22nd Annual UCLA Indo-European Conference*, ed. Stephanie W. Jamison, H. Craig Melchert, and Brent Vine, 53–68. Bremen: Hempen. [\[download\]](https://ucla.box.com/s/g3e85pj0gtj7bbmkbtp817xgx6di511c)  
 
-## Encyclopedia entries
-2014\. “[Accentuation](https://ucla.box.com/s/srtkbq4zmuok2lz3vuyokwvl29314p00).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 1, *A–F*, ed. Georgios K. Giannakis et al., 7–12. Leiden: Brill.  
+[## Encyclopedia entries]: #  
+[2014\. “[Accentuation](https://ucla.box.com/s/srtkbq4zmuok2lz3vuyokwvl29314p00).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 1, *A–F*, ed. Georgios K. Giannakis et al., 7–12. Leiden: Brill.]: #
 
-2014\. “[Law of Limitation](https://ucla.box.com/s/abq2yi27lzv8pjtfv68miw7cltaat46w).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 2, *G–O*, ed. Georgios K. Giannakis et al., 323–325. Leiden: Brill.  
+[2014\. “[Law of Limitation](https://ucla.box.com/s/abq2yi27lzv8pjtfv68miw7cltaat46w).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 2, *G–O*, ed. Georgios K. Giannakis et al., 323–325. Leiden: Brill.]: #  
 
-2014\. “[Sotera Rule](https://ucla.box.com/s/tyaftkl4u5m54kl2c0sv22421oup1aup).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 296–297. Leiden: Brill.  
+[2014\. “[Sotera Rule](https://ucla.box.com/s/tyaftkl4u5m54kl2c0sv22421oup1aup).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 296–297. Leiden: Brill.]: #  
 
-2014\. “[Wheeler’s Law](https://ucla.box.com/s/rhjtjlspctbb1yrfofxbbf4bsose6ykr).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 515–516. Leiden: Brill.  
+[2014\. “[Wheeler’s Law](https://ucla.box.com/s/rhjtjlspctbb1yrfofxbbf4bsose6ykr).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 515–516. Leiden: Brill.]: #  
 
 ## Handouts and slides from presentations
+2024 \[August 22\]\. Gunkel, Dieter and Kevin M. Ryan. “Tonal textsetting in ancient Greek vocal music: Revisiting the grave.” 57th Annual Meeting of the Societas Linguistica Europaea, Helsinki.  
+
+2024 \[March 22\]\. “Discontinuous noun phrases in Vedic prose.” 234th Meeting of the American Oriental Society, Chicago.  
+
+2024 \[March 19\]\. “The syntactic expression of polarity focus in Vedic prose.” Linguistics Research Seminars, Trinity College, Dublin.  
+
+2023 \[April 26\]\. “Tocharian metrics.” Indo-European Meters (IES 280A), University of California, Los Angeles.  
+
+2017 \[October 21\]\. “On ‘accent retraction’ in Greek and Vedic vocatives.” Cornell workshop on Greek linguistics, Cornell University.  
+
+2015 \[June 24\]\. Gunkel, Dieter and Kevin M. Ryan. “Investigating Rigvedic word order in metrically neutral contexts.” Institut für Sprachwissenschaft, University of Vienna.  
+
