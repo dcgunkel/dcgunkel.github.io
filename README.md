@@ -1,7 +1,7 @@
 # Dieter Gunkel
-UCLA Department of Classics  
-UCLA Program in Indo-European Studies  
-dgunkel@humnet.ucla.edu  
+## About
+I'm a professor with join appointments in UCLA's [Department of Classics](https://classics.ucla.edu) and [Program in Indo-European Studies](https://pies.ucla.edu). After receiving my PhD at UCLA in 2010, I held positions in the [Lehstuhl für Historische und Indogermanische Sprachwissenschaft](https://www.indogermanistik.uni-muenchen.de/index.html) at the University of Munich \(2010–2017\) as well as in the [Department of Classical Studies](https://classics.richmond.edu) and the [Linguistics Program](https://linguistics.richmond.edu) at the University of Richmond \(2017–2024\).
+dgunkel@humnet.ucla.edu 
 
 ## Articles and book chapters
 2024\. Sandell, Ryan P. and Dieter Gunkel. “On the representation and realization of the ancient Greek acute: Evidence from tone-tune mappings in ancient Greek music.” *Journal of Greek Linguistics* 24:78–183 [\[download\]](https://brill.com/downloadpdf/view/journals/jgl/24/1/article-p78_4.pdf)  
