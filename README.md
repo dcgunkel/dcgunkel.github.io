@@ -4,15 +4,15 @@ Program in Indo-European Studies
 dgunkel@humnet.ucla.edu  
 
 ## Articles and book chapters
-2024\. Sandell, Ryan P. and Dieter Gunkel. “[On the representation and realization of the ancient Greek acute: Evidence from tone-tune mappings in ancient Greek music](https://brill.com/downloadpdf/view/journals/jgl/24/1/article-p78_4.pdf).” *Journal of Greek Linguistics* 24: 78–183.  
+2024\. Sandell, Ryan P. and Dieter Gunkel. “On the representation and realization of the ancient Greek acute: Evidence from tone-tune mappings in ancient Greek music.” *Journal of Greek Linguistics* 24:78–183 [\[download\]](https://brill.com/downloadpdf/view/journals/jgl/24/1/article-p78_4.pdf)  
 
-2023\. “[Musical evidence for low boundary tones in ancient Greek](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1045&context=classicalstudies-faculty-publications).” *Greek and Roman Musical Studies* 12: 1–54.  
+2023\. “Musical evidence for low boundary tones in ancient Greek.” *Greek and Roman Musical Studies* 12:1–54. [download\]](https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1045&context=classicalstudies-faculty-publications)  
 
-2022\. Gunkel, Dieter and Kevin M. Ryan. “[Vedic Sanskrit vocatives in *-an*: The case for restoring two endings](https://ucla.box.com/s/0vdt9xjr4l671rjjtd2ycxceryynggcv).” In *Ha! Linguistic Studies in Honor of Mark R. Hale*, ed. Laura Grestenberger, Charles Reiss, Hannes A. Fellner, and Gabriel Z. Pantillon, 117–134. Wiesbaden: Reichert.  
+2022\. Gunkel, Dieter and Kevin M. Ryan. “Vedic Sanskrit vocatives in *-an*: The case for restoring two endings.” In *Ha! Linguistic Studies in Honor of Mark R. Hale*, ed. Laura Grestenberger, Charles Reiss, Hannes A. Fellner, and Gabriel Z. Pantillon, 117–134. Wiesbaden: Reichert. [proofs\]](https://ucla.box.com/s/0vdt9xjr4l671rjjtd2ycxceryynggcv)  
 
-2022\. “The first person singular of the athematic middle optative in Vedic and Indo-Iranian.” *Journal of the American Oriental Society* 142.2:251–266.  
+2022\. “The first person singular of the athematic middle optative in Vedic and Indo-Iranian.” *Journal of the American Oriental Society* 142.2:251–266. [proofs\]](https://ucla.box.com/s/tw55k4ccmlkc0n7ktr457ede8ldjyng6)  
 
-2018\. “Localizational evidence for the restoration of Rigvedic *mimihí ‘measure’.” In *Vina Diem Celebrent. Studies in Linguistics and Philology in Honor of Brent Vine*, ed. Dieter Gunkel, Stephanie W. Jamison, Angelo O. Mercado, and Kazuhiko Yoshida, 76–92. Ann Arbor: Beech Stave Press.  
+2018\. “Localizational evidence for the restoration of Rigvedic \**mimihí* ‘measure’.” In *Vina Diem Celebrent. Studies in Linguistics and Philology in Honor of Brent Vine*, ed. Dieter Gunkel, Stephanie W. Jamison, Angelo O. Mercado, and Kazuhiko Yoshida, 76–92. Ann Arbor: Beech Stave Press. [proofs\]]()
 
 2018\. Gunkel, Dieter and Kevin M. Ryan. “Phonological evidence for pāda cohesion in Rigvedic versification.” In *Language and Meter*, ed. Dieter Gunkel and Olav Hackstein, 34–53. Leiden: Brill.  
 
