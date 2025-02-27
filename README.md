@@ -36,6 +36,13 @@ I specialize in the historical-comparative grammar of the older Indo-European la
 
 2014\. “[Wheeler’s Law](https://ucla.box.com/s/rhjtjlspctbb1yrfofxbbf4bsose6ykr).” In *Encyclopedia of Ancient Greek Language and Linguistics*. Vol. 3, *P–Z*, Index, ed. Georgios K. Giannakis et al., 515–516. Leiden: Brill.  
 
+## Books edited
+2018\. Gunkel, Dieter, Stephanie W. Jamison, Angelo O. Mercado, and Kazuhiko Yoshida, eds. *Vina Diem Celebrent. Studies in Linguistics and Philology in Honor of Brent Vine*. Ann Arbor: Beech Stave Press.
+
+2018\. Gunkel, Dieter and Olav Hackstein, eds. *Language and Meter* (Brill’s Studies in Indo-European Languages and Linguistics 18). Leiden: Brill.
+
+2016\. Gunkel, Dieter, Joshua T. Katz, Brent Vine, and Michael Weiss, eds. *Sahasram Ati Srajas. Indo-Iranian and Indo-European Studies in Honor of Stephanie W. Jamison*. Ann Arbor: Beech Stave Press.
+
 ## Handouts and slides from presentations
 2024 \[March 22\]\. “Discontinuous noun phrases in Vedic prose.” 234th Meeting of the American Oriental Society, Chicago. [\[download\]](https://ucla.box.com/s/uwd3z4w1cqvu2x9go09z9wx5rl9gts5p)  
 
